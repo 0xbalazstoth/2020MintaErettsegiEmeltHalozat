@@ -1,0 +1,18 @@
+﻿Példa LAN (200 IP-cím igény)
+	hálózat azonosító: 172.16.0.0/24
+	alhálózati maszk: 255.255.255.0
+	használható címtartomány: 172.16.0.1 - 172.16.0.254
+	szórási cím: 172.16.0.255
+
+10.20.30.0/24
+
+1. TauCeti (100 IP-cím igény)
+	hálózat azonosító: 10.20.30.1/25
+	alhálózati maszk: 255.255.255.128
+	használható címtartomány: 10.20.30.1 - 10.20.30.126
+	szórási cím: 10.20.30.127
+2. Vega (20 IP-cím igény)
+	hálózat azonosító: 10.20.30.128/27
+	alhálózati maszk: 255.255.255.224
+	használható címtartomány: 10.20.30.129 - 10.20.30.158
+	szórási cím: 10.20.30.159
